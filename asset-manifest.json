@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HepatitisC/static/css/main.cbe7f352.css",
+    "main.js": "/HepatitisC/static/js/main.56cb2862.js",
+    "static/js/488.e75445ad.chunk.js": "/HepatitisC/static/js/488.e75445ad.chunk.js",
+    "index.html": "/HepatitisC/index.html",
+    "main.cbe7f352.css.map": "/HepatitisC/static/css/main.cbe7f352.css.map",
+    "main.56cb2862.js.map": "/HepatitisC/static/js/main.56cb2862.js.map",
+    "488.e75445ad.chunk.js.map": "/HepatitisC/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe7f352.css",
+    "static/js/main.56cb2862.js"
+  ]
+}
